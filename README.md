@@ -37,7 +37,8 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 | 🌐 [Portfolio Website](https://github.com/Keerthanm17/prtfol-keert) | Personal portfolio built with Next.js | [Live Demo](https://keerthanm.netlify.app/) |
 
 ---
-
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keerthanmgowda3@gmail.com)
