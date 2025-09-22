@@ -1,5 +1,3 @@
-![Keerthan's GitHub Banner](https://github.com/Keerthanm17.png)
-
 # Hi there, I'm Keerthan! 👋
 
 I'm a Computer Science student with a passion for building intelligent, accessible systems that solve real-world problems.
