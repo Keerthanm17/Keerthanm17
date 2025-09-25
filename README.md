@@ -70,7 +70,7 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?username=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
