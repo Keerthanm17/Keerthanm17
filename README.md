@@ -68,12 +68,14 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 ## 📊 GitHub Stats & Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
-
 ---
 
 ## 📈 Contribution Activity
