@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Keerthanm17/Keerthanm17/master/banner.png" width="800px" alt="Keerthan's Banner"/>
-</p>
 # Hi there, I'm Keerthan M! 👋  
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
 ---
