@@ -2,7 +2,8 @@
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
 
 ---
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Keerthanm17&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+---
 ## 🎓 About Me
 
 - 🏫 **B.E. in Computer Science** — MVJ College of Engineering  
