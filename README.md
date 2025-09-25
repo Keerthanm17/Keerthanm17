@@ -68,10 +68,7 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
-## 📊 GitHub Analytics
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Keerthanm17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
