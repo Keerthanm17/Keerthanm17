@@ -18,17 +18,19 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend & Database
+![Next.js](https://img.shields.io/badge/-Next.js-339933?style=for-the-badge&logo=Next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -68,9 +70,15 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Keerthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthanm17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -80,6 +88,11 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-m-gowda-3459602b9)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://keerthanm.netlify.app/)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keerthanm17&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 ---
 
-> 🧠 _“Building smarter, more accessible worlds — one project at a time.”_
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
