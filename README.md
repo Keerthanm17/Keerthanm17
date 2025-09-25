@@ -1,6 +1,6 @@
-# Hi there, I'm Keerthan! 👋  
+# Hi there, I'm Keerthan M! 👋  
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
-
+![Section Divider](https://https://lh3.googleusercontent.com/gg-dl/AJfQ9KS_bbFKPK59WjBl9yGdyFE3n4U2XwsMQfOpGnZ-DpnsGXaf7ldGwnIVOzLYzWVe-198RKd-L_HBS3oFvq_AjuF1zdh240goWm4qkdBwZ4y3B-0VJz4_p5eRB13SyhGn036AtvJ8Uogmjwo8Gc6UfcqI0KPHdWziI-SmvS8wOENoPNpXhw=s1024.com/divider.png)
 ---
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Keerthanm17&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 ---
