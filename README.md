@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Keerthan+M!+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+IoT+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Keerthan+M!+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+Data Science+Enthusiast;Data+Science+Engineer" alt="Typing SVG" />
 </div> 
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
 
