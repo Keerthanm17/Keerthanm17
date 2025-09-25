@@ -31,7 +31,7 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| 🏛️ [Heritage Tourism Guide](https://github.com/Keerthanm17/heritage-guide) | CNN-powered, multilingual TTS guide for smart tourism | [Live Demo](https://heritage-guide.netlify.app/) |
+| 🏛️ [Heritage Tourism Guide](https://github.com/Keerthanm17/heritage-guide) | CNN-powered, multilingual TTS guide for smart tourism | [Live Demo](https://toruist.netlify.app/) |
 | 🌾 [Smart Agriculture System](https://github.com/Keerthanm17/TASK1) | IoT + ML for intelligent, efficient agriculture | [Live Demo](https://soil-crop.netlify.app/) | 
 | 🔐 [Encryption Web App](https://github.com/Keerthanm17/TASK3) | AES, DES, SHA, PBKDF2 cryptography toolkit | [Live Demo](https://encr-decr.netlify.app/) |
 | 🌐 [Portfolio Website](https://github.com/Keerthanm17/prtfol-keert) | Personal portfolio built with Next.js | [Live Demo](https://keerthanm.netlify.app/) |
