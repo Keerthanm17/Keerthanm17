@@ -1,4 +1,4 @@
-# Hi there, I'm Keerthan M! 👋  
+# Hi there, I'm Keerthan! 👋  
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
 
 ---
@@ -27,29 +27,41 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 
 ---
 
-## 🚀 Top Projects
+## 🧰 Tools & Platforms
 
-| Project | Description | Demo |
-|--------|-------------|------|
-| 🏛️ [Heritage Tourism Guide](https://github.com/Keerthanm17/heritage-guide) | CNN-powered, multilingual TTS guide for smart tourism | [Live Demo](https://toruist.netlify.app/) |
-| 🌾 [Smart Agriculture System](https://github.com/Keerthanm17/TASK1) | IoT + ML for intelligent, efficient agriculture | [Live Demo](https://soil-crop.netlify.app/) | 
-| 🔐 [Encryption Web App](https://github.com/Keerthanm17/TASK3) | AES, DES, SHA, PBKDF2 cryptography toolkit | [Live Demo](https://encr-decr.netlify.app/) |
-| 🌐 [Portfolio Website](https://github.com/Keerthanm17/prtfol-keert) | Personal portfolio built with Next.js | [Live Demo](https://keerthanm.netlify.app/) |
-
----
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
-## 🧰 Tools & Platform
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![Versal](https://img.shields.io/badge/-Versal-FF6F00?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
+
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+---
+
+## 🚀 Top Projects
+
+| Project | Description | Demo |
+|--------|-------------|------|
+| 🏛️ [Heritage Tourism Guide](https://github.com/Keerthanm17/heritage-guide) | CNN-powered, multilingual TTS guide for smart tourism | [Live Demo](https://tourist.netlify.app/) |
+| 🌾 [Smart Agriculture System](https://github.com/Keerthanm17/TASK1) | IoT + ML for intelligent, efficient agriculture | [Live Demo](https://soil-crop.netlify.app/) |
+| 🔐 [Encryption Web App](https://github.com/Keerthanm17/TASK3) | AES, DES, SHA, PBKDF2 cryptography toolkit | [Live Demo](https://encr-decr.netlify.app/) |
+| 🌐 [Portfolio Website](https://github.com/Keerthanm17/prtfol-keert) | Personal portfolio built with Next.js | [Live Demo](https://keerthanm.netlify.app/) |
+
+---
+
+## 📊 GitHub Stats & Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
