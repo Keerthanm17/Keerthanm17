@@ -28,9 +28,9 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend & Database
-![Next.js](https://img.shields.io/badge/-Next.js-339933?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-4479A1?style=for-the-badge&logo=mssql&logoColor=white)
 
 ---
 
