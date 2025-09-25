@@ -69,12 +69,8 @@ _A Computer Science Engineer passionate about building intelligent, accessible s
 ## 📊 GitHub Stats & Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanm17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Keerthanm17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
