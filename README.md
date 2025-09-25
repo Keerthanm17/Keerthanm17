@@ -1,3 +1,4 @@
+![Keerthan's Banner](https://raw.githubusercontent.com/Keerthanm17/Keerthanm17/main/banner.png)
 # Hi there, I'm Keerthan M! 👋  
 _A Computer Science Engineer passionate about building intelligent, accessible systems for real-world impact._
 ---
